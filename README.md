@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### My name is Cabral Williams!
 
+### 🔭 I’m currently working on ...
+  * [React to Math](https://github.com/cabralwilliams/react-to-math) - an update to a previous application that I did before I knew what I was doing.
 ### 📫 How to reach me: cabral.williams@gmail.com
 
 
