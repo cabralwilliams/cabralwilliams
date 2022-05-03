@@ -2,7 +2,7 @@
 ### My name is Cabral Williams!
 
 ### 🔭 I’m currently working on ...
-  * [React to Math](https://github.com/cabralwilliams/react-to-math) - an update to a previous application that I did before I knew what I was doing.
+  * [Simple Algebra](https://github.com/cabralwilliams/SimpleAlgebra) - so the React to Math application wasn't behaving at intended, so I reconfigured things and created this application that uses many of the ideas used in the prior application.
 ### 📫 How to reach me: cabral.williams@gmail.com
 
 
