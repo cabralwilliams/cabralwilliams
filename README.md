@@ -3,6 +3,7 @@
 
 ### 🔭 I’m currently working on ...
   * [Simple Algebra](https://github.com/cabralwilliams/SimpleAlgebra) - so the React to Math application wasn't behaving at intended, so I reconfigured things and created this application that uses many of the ideas used in the prior application.
+  * [Platform Game 1](https://github.com/cabralwilliams/platform-game-1) - am I capable of creating a platform game?  Probably.  Am I capable of creating a platform game that is any good?  Probably not.
 ### 📫 How to reach me: cabral.williams@gmail.com
 
 
