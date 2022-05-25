@@ -4,6 +4,7 @@
 ### 🔭 I’m currently working on ...
   * [Simple Algebra](https://github.com/cabralwilliams/SimpleAlgebra) - so the React to Math application wasn't behaving at intended, so I reconfigured things and created this application that uses many of the ideas used in the prior application.
   * [Platform Game 1](https://github.com/cabralwilliams/platform-game-1) - am I capable of creating a platform game?  Probably.  Am I capable of creating a platform game that is any good?  Probably not.
+  * [Coding Exercises](https://github.com/cabralwilliams/coding-exercises) - working with a few others to create supplemental coding examples that are hopefully easy to follow and allow new learners to practice some basics.
 ### 📫 How to reach me: cabral.williams@gmail.com
 
 
